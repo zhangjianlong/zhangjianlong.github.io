@@ -6,3 +6,6 @@ category:
 tags: [git]
 ---
 {% include JB/setup %}
+
+git config --global
+git config --global
