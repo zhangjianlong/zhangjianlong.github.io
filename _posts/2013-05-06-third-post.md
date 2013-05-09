@@ -9,5 +9,5 @@ tags: [github,new project]
 
 
 
-1.在github首页，点击“new reository” 
-2.填写项目名称，描述等信息，然后提交
+	1.在github首页，点击“new reository” 。
+	2.填写项目名称，描述等信息，然后提交。
